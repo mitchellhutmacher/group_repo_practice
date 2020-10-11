@@ -1,3 +1,4 @@
 print("Hello, world")
 
-print("claire")
+
+print("Goodbye, world")
